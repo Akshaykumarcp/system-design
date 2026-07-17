@@ -49,8 +49,10 @@ System Design Resources
     - Blogs:
         - [Staff-Level System Design](https://www.hellointerview.com/blog/staff-level-system-design)
     - [Practice](https://www.hellointerview.com/practice/overview)
-
-
+- Database
+    - [ACID](https://www.databricks.com/blog/what-are-acid-transactions)
+    - Concurrency control
+        - [GFG](https://www.geeksforgeeks.org/dbms/concurrency-control-in-dbms/), [DBx](https://www.databricks.com/blog/concurrency-control)
         
 
 
