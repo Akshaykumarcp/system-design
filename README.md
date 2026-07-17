@@ -53,6 +53,9 @@ System Design Resources
     - [ACID](https://www.databricks.com/blog/what-are-acid-transactions)
     - Concurrency control
         - [GFG](https://www.geeksforgeeks.org/dbms/concurrency-control-in-dbms/), [DBx](https://www.databricks.com/blog/concurrency-control)
-        
-
+- General
+    - Pre-Signed URLs
+        - [aws](https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-presigned-url.html), [forththeorem](https://fourtheorem.com/the-illustrated-guide-to-s3-pre-signed-urls/)
+    - Sync Vs Async
+        - [GFG](https://www.geeksforgeeks.org/javascript/synchronous-and-asynchronous-programming/)
 
